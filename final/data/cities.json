@@ -47,6 +47,18 @@
         "lng": "-2.13128394200588"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-07-09T13:41:03.000Z",
+      "notes": "hot weather but  learned a lot about italy culture\n",
+      "position": {
+        "lat": "41.84501267270692",
+        "lng": "12.485961914062502"
+      },
+      "id": 98443199
     }
   ]
 }
